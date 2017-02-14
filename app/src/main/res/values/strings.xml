@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Todo</string>
+
+    //For Main Activity
+    <string name="add">Add</string>
+    <string name="add_item">Add a new item...</string>
+
+    //Menu Main Activity
+    <string name="create_new">Create a new task"</string>
+
+    //EditItem Activity
+    <string name="edit_item">Edit Item Below:</string>
+    <string name="save_edit">Save</string>
+
+    //AddItem Activity
+    <string name="item_name">Item Name:</string>
+    <string name="new_item_hint">Add a new item</string>
+    <string name="due_date">Due date:</string>
+    <string name="priority">Priority:</string>
+
+    //AddItem Activity menu
+    <string name="save_new">Save task</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //EditItem Dialog
+    <string name="edit_item_dialog">Name:</string>
+    <string name="edit_item_date">Date:</string>
+    <string name="edit_item_priority">Priority:</string>
+
+</resources>
